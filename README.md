@@ -1,4 +1,4 @@
-TeamCity Node plugin
+meowTeamCity Node plugin
 ====================
 
 This is a plugin for TeamCity that provides following build runners
